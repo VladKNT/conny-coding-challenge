@@ -15,5 +15,6 @@ module.exports = {
   ],
   rules: {
     quotes: [2, "double"],
+    "@typescript-eslint/no-empty-interface": [0],
   },
 };
